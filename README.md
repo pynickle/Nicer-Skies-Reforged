@@ -6,8 +6,7 @@ This mod improves the following:
 ## Star rendering
 Stars will twinkle and be of slightly different colours
 
-
-![Star_video.mp4](https://user-images.githubusercontent.com/57519662/195574727-11e11ce6-73b6-4786-b6cf-4e38d4b5cd26.mp4)
+<video src="https://user-images.githubusercontent.com/57519662/195574727-11e11ce6-73b6-4786-b6cf-4e38d4b5cd26.mp4" controls preload="metadata" width="100%"></video>
 ## Nebulas
 This mod renders a seed/server-dependent skybox that is 100% generated in runtime with cool shader-like nebulas.
 
